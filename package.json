@@ -1,0 +1,15 @@
+{
+  "name": "codemama",
+  "version": "1.0.0",
+  "description": "",
+  "main": "area-triangle.js",
+  "scripts": {
+    "start-dev":"nodemon remainder.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
