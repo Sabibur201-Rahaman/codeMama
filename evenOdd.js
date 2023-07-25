@@ -1,8 +1,9 @@
 function main(input){
-if(input%2==0){
-    console.log('even');
+    const numInput=Number(input)
+if(numInput%2==0){
+    console.log(`${numInput}is an even number`);
 }else{
-    console.log('odd')
+    console.log(`${numInput}is an odd number`)
 }
 }
-main(35)
+main('12')
