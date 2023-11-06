@@ -5,3 +5,10 @@ function main (input) {
     return farenhite
     }
     console.log(main(41))
+
+
+
+    const a=45;
+    const b=35;
+    const c=a/b
+    console.log(Math.floor(c))
